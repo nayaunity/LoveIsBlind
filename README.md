@@ -6,7 +6,7 @@ Based on the popular Netflix show "Love is Blind", this dating app sets out to b
 ## 🎥 Walkthrough
 Watch this short video to see the app in action:
 
-[[Love is Blind Dating App - Walkthrough Video]](https://www.tiktok.com/t/ZTLfBeEJv/)
+[[Love is Blind Dating App - Walkthrough Video]](https://www.instagram.com/reel/C4s_CiZgsj3/?igsh=MWtlamhibG5xNWExZg==)
 
 ## 💡 Features
 
